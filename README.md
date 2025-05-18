@@ -16,5 +16,5 @@ git log --oneline -n 10
 git fetch origin; git checkout master; git reset --hard 1eaef8b;; git clean -fdx
 ### Quick github update
 git add .
-git commit -m "files .gitignore and main README.md updated"
+git commit -m "created /core/ as main school folder"
 git push

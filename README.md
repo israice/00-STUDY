@@ -5,7 +5,7 @@
 ### v0.0.1
 - created /core/ as main school folder
 - files .gitignore and main README.md updated
-
+- created SCHOOL_PROJECT_2
 
 ## GIT CHEATSHEET
 ### load last updates and replace existing local files
@@ -16,5 +16,5 @@ git log --oneline -n 10
 git fetch origin; git checkout master; git reset --hard 1eaef8b;; git clean -fdx
 ### Quick github update
 git add .
-git commit -m "created /core/ as main school folder"
+git commit -m "created SCHOOL_PROJECT_2"
 git push
